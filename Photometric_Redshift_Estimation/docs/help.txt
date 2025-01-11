@@ -1,0 +1,16 @@
+Photometric Redshift Estimation Tool Help
+=========================================
+
+1. Load Data:
+   Upload a .csv or .fits file to analyze.
+
+2. Clustering:
+   Groups galaxies based on flux data. Requires login.
+
+3. Train & Predict:
+   Trains machine learning models (kNN, RF) for redshift prediction.
+
+4. Export Results:
+   Saves results in .csv format for further use.
+
+Contact support@redshift.com for additional help.
